@@ -20,17 +20,4 @@ Feature vectors are created using text or numerical representations.
 A similarity algorithm (such as cosine similarity) is applied to measure how closely movies are related.
 Based on user input or a selected movie, the system identifies and ranks similar movies.
 The top results are returned as recommendations.
-# Setup & Usage
-Clone the repository:
-git clone https://github.com/your-username/movie-recommendation-system.git
-Navigate to the project directory:
-cd movie-recommendation-system
-Install required dependencies:
-pip install -r requirements.txt
-Run the notebook or Python script to generate movie recommendations.
-# Future Scope
-Add collaborative filtering for user-based recommendations
-Integrate a web-based or mobile user interface
-Use advanced NLP models for better content understanding
-Include real-time user feedback for improved accuracy
-Deploy as a full-stack application
+
